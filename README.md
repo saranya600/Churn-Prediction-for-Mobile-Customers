@@ -55,20 +55,4 @@ To run this project, you need the following Python libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn scipy
 ```
 
-## Team
 
-- **Anish Borkar**
-- **Anoushka Srivastava**
-- **Dyuti Dasmahapatra**
-- **Godavarthi Sai Nikhil**
-- **Nichenametla Karthik Raja**
-
-## Mentor
-
-Our heartfelt thanks to **Dr. Anantha Rao** for his invaluable guidance and support throughout the development of this project.
-
-## Contact Us
-
-For inquiries, collaboration opportunities, or further information, please feel free to reach out to:
-
-- **Email:** [nikhilgodavarthi9@gmail.com](mailto:nikhilgodavarthi9@gmail.com)
